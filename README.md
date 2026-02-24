@@ -7,11 +7,17 @@ Authors:
 
 Hamza Shahab Awan¹
 Abid Sohail*1
+Tamim Alkhalifah*2
+Fahad Alturise*3
+Yaser Daanial Khan*4
 
 Corresponding Author: Hamza Shahab Awan (Email:hamzashahabawan@gmail.com)
 
 Affiliations:
-Department of Computer Science, COMSATS University Islamabad, Lahore Campus, Pakistan
+1. Department of Computer Science, COMSATS University Islamabad, Lahore Campus, Pakistan
+2. Department of Computer Engineering, College of Computer, Qassim University, Buraydah, Saudi Arabia
+3. Department of Cybersecurity, College of Computer, Qassim University, Buraydah, Saudi Arabia
+4. Department of Computer Science, School of Systems and Technology, University of Management and Technology, Lahore 54770, Pakistan
 
 
 
